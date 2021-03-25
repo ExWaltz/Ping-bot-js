@@ -1,0 +1,20 @@
+{
+  "name": "youtube-ping",
+  "version": "1.0.0",
+  "description": "Discord bot that pings whenever a video or livestream is uploaded",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "bot"
+  ],
+  "author": "ExWaltz",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "request": "^2.88.2"
+  }
+}
